@@ -1,0 +1,28 @@
+.header {
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipe_links {
+    list-style-type: none;
+    font-size: 24px;
+    list-style-position: inside;
+    margin-left: 0;
+    padding-left: 0;
+    text-align: center;
+}
+
+.food-image {
+    width: 500px;
+    height: auto;
+}
+
+.desc_header {
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;
+}
